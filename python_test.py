@@ -31,11 +31,11 @@ def listed(x):
 
 
 
-# def divisible_by_seven():
-#     n=range(1,100)
-#     for s in n:
-#         if s%7==0:
-#             print(s)
+def divisible_by_seven():
+    n=range(1,100)
+    for s in n:
+        if s%7==0:
+            print(s)
 
 
 def students():
@@ -47,7 +47,7 @@ def students():
     print(f"hello my name is {name} and i am {age}years old ")
 
 
-    students()
+
 
 
 
